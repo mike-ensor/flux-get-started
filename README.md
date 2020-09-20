@@ -7,6 +7,8 @@ here](https://github.com/fluxcd/flux/blob/master/docs/tutorials/get-started-helm
 
 ## Workloads
 
+Let's do this!
+
 [podinfo](https://github.com/stefanprodan/podinfo)
 * Kubernetes deployment, ClusterIP service and Horizontal Pod Autoscaler
 * init container automated image updates (regular expression filter)
