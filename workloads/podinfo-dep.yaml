@@ -34,7 +34,7 @@ spec:
         - "1"
       containers:
       - name: podinfod
-        image: stefanprodan/podinfo@sha256:9574416689665a82cb4eaf43463da5b6156071ebbec117262eef7fa32b4d7021
+        image: stefanprodan/podinfo@sha256:60f5921e0f6a21a485a0a4e9415761afb5b60814bbe8a6864cb12b90ae24c1d0
         imagePullPolicy: IfNotPresent
         ports:
           - name: http
