@@ -34,7 +34,7 @@ spec:
         - "1"
       containers:
       - name: podinfod
-        image: stefanprodan/podinfo:3.1.0
+        image: stefanprodan/podinfo@sha256:b8a825862d73b2f1110dd9c5fc0631f47117c7cd99e42efa34244cd82bd6742f # hardcode arm7
         imagePullPolicy: IfNotPresent
         ports:
           - name: http
